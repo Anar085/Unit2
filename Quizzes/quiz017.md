@@ -29,7 +29,7 @@ print(m)
 
 ![image](https://github.com/user-attachments/assets/535c6369-4c51-44db-902f-e531fd373299)
 
-## Truth table and circuit
+## Truth table and circuit for Light = S1S2+(S2+S3(notS1))S1
 
 ![quiz17](https://github.com/user-attachments/assets/4b7d2485-8f00-4fae-b73a-ded789503ed9)
 
