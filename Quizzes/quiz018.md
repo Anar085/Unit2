@@ -1,6 +1,7 @@
 # Quiz 018
 
 ## Paper solution
+![quiz18](https://github.com/user-attachments/assets/a6f2914e-1ea0-414b-8c30-608e5ad865d8)
 
 
 ## Code
