@@ -29,7 +29,9 @@ print(m)
 ![image](https://github.com/user-attachments/assets/7a94e1e6-d9cd-4352-ba5a-1e39e8eedc4d)
 
 
+## Truth table and circuit for: X = ZW ⨁ (Z ⨁ Y(not W))
 
+![quiz18s](https://github.com/user-attachments/assets/96b10990-77c7-4400-8cf1-d665ec3c31c0)
 
 
 
