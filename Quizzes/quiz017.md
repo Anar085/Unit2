@@ -1,6 +1,7 @@
 # Quiz 017
 
 ## Paper solution
+![quiz17s](https://github.com/user-attachments/assets/4d45de18-35f4-42c4-8cd6-491786662711)
 
 
 ## Code
@@ -28,8 +29,9 @@ print(m)
 
 ![image](https://github.com/user-attachments/assets/535c6369-4c51-44db-902f-e531fd373299)
 
+## Truth table and circuit
 
-
+![quiz17](https://github.com/user-attachments/assets/4b7d2485-8f00-4fae-b73a-ded789503ed9)
 
 
 
