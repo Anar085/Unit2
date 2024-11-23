@@ -28,6 +28,10 @@ print(m)
 
 ![image](https://github.com/user-attachments/assets/167cba88-9ec7-4550-a15a-3074e75bcb3d)
 
+## Create the graph of the function y=sin(2*pi*x) 0<x<1
+
+
+![image](https://github.com/user-attachments/assets/ac3ee860-5248-4042-98e7-98b1efbc26df)
 
 
 
