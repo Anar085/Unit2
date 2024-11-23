@@ -27,6 +27,10 @@ print(m)
 
 ![image](https://github.com/user-attachments/assets/8dab940e-776c-46b0-bc17-ce4e2834d356)
 
+## Add the binary numbers 1011 and 1101 and express the result in binary.
+![image](https://github.com/user-attachments/assets/c3600a85-0584-4bc8-a905-09d4c07361c7)
+
+
 
 
 
