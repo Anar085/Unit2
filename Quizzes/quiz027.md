@@ -29,7 +29,6 @@ print(m)
 
 
 
-## Convert the following rgb color to hex color : red=10, green=255, blue=235
 
 
 
