@@ -26,6 +26,7 @@ print(m)
 
 ## Proof of work
 
+![image](https://github.com/user-attachments/assets/167cba88-9ec7-4550-a15a-3074e75bcb3d)
 
 
 
