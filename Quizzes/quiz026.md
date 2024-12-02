@@ -1,5 +1,7 @@
 # Quiz 026
 
+## Paper Solution
+![IMG_0502](https://github.com/user-attachments/assets/68b2c896-faff-45c8-bb6a-8dfd540d1c45)
 
 
 
