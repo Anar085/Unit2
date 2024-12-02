@@ -1,5 +1,7 @@
 # Quiz 025
 
+## Paper Solution
+![IMG_0501](https://github.com/user-attachments/assets/65497994-ed99-4bd2-89a2-c591997dd168)
 
 
 
