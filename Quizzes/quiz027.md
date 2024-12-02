@@ -1,8 +1,11 @@
 # Quiz 027
 
 
+## Paper Solution
+![IMG_0503](https://github.com/user-attachments/assets/da972e9b-d81e-4e5c-ade8-8197b0402d0a)
 
 
+ 
 ## Code
 ```.py
 def sort_dict(mydict:dict):
